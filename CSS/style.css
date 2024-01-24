@@ -4,7 +4,7 @@
 }
 
 #char,
-monster {
+#monster {
     flex: 1;
 }
 .lifebar{
